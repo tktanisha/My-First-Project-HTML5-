@@ -1,0 +1,37 @@
+body {
+  background-color: #D6E8DB ;
+}
+img:hover{background-color: #537188;}
+hr {
+  /* background-color: white; */
+  /* border-style:dotted;
+
+  height:2px;
+  width:5%;<!--this means 5 % of the page ke size ki width aa jayegi--> */
+
+
+
+  /* border-style: dotted none none ; */
+  border-style:none;
+ border-top-style:dotted;
+
+border-width:5px;
+border-color:black;
+  height:0px;
+  width:5%;
+
+
+}/*to change the colur of text*/
+h1 {color: #025464}
+h2 {color: #025464}
+h3 {color: #025464}
+
+.tech {background-color:#0C134F;
+}
+.circular{
+  border-radius:50%;
+}
+body a{
+  color: black;
+  text-decoration-color: black;
+}
